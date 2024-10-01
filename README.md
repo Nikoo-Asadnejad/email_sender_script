@@ -16,7 +16,7 @@ This Python script allows you to send an email using the SMTP (Simple Mail Trans
 
 ## Setup
 
-### sEnable "Less Secure Apps" in Gmail
+### Enable "Less Secure Apps" in Gmail
 
 To send emails via Gmail, you'll need to enable less secure apps:
 
